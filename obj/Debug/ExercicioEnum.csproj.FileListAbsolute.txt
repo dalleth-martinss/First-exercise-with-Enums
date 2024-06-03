@@ -1,0 +1,7 @@
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\bin\Debug\ExercicioEnum.exe.config
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\bin\Debug\ExercicioEnum.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\bin\Debug\ExercicioEnum.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\obj\Debug\ExercicioEnum.csproj.AssemblyReference.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\obj\Debug\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\obj\Debug\ExercicioEnum.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExercicioEnum\obj\Debug\ExercicioEnum.pdb
